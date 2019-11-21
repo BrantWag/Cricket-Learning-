@@ -8,7 +8,7 @@ public class Load : MonoBehaviour
     // Start is called before the first frame update
     public void LoadMenu()
     {
-        Debug.Log("Loading Menu");
+        //Debug.Log("Loading Menu");
         SceneManager.LoadScene("Menu");
     }
 
@@ -19,6 +19,6 @@ public class Load : MonoBehaviour
 
     public void nextlevel() 
     {
-        SceneManager.LoadScene("lvl 2");
+        SceneManager.LoadScene("lvl 1");
     }
 }

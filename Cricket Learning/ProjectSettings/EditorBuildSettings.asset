@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Bug.unity
     guid: 6890bae7e347c194f92ae0dd11aa3081
+  - enabled: 1
+    path: Assets/Scenes/Insructions.unity
+    guid: 41490fb4c94035147b8a6e8f8415e71e
   m_configObjects: {}

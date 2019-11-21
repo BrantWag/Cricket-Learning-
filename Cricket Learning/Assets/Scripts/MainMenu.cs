@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("LVL 1");
+        SceneManager.LoadScene("Insructions");
     }
 
     public void Credits()
